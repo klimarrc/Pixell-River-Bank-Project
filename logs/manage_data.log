@@ -1,0 +1,1117 @@
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 78, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email=email_address
+    )
+TypeError: Client.__init__() got an unexpected keyword argument 'email'
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 117, in load_data
+    raise ValueError("Not a valid account type")
+ValueError: Not a valid account type
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 78, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email=email_address
+    )
+TypeError: Client.__init__() got an unexpected keyword argument 'email'
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 117, in load_data
+    raise ValueError("Not a valid account type")
+ValueError: Not a valid account type
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 102, in load_data
+    minimum_balance = float(record['minimum_balance']) if record.get('minimum_balance') else 0.0
+                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'Null'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 102, in load_data
+    minimum_balance = float(record['minimum_balance']) if record.get('minimum_balance') else 0.0
+                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'Null'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 102, in load_data
+    minimum_balance = float(record['minimum_balance']) if record.get('minimum_balance') else 0.0
+                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'Null'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 102, in load_data
+    minimum_balance = float(record['minimum_balance']) if record.get('minimum_balance') else 0.0
+                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'Null'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 102, in load_data
+    minimum_balance = float(record['minimum_balance']) if record.get('minimum_balance') else 0.0
+                      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'Null'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 95, in load_data
+    client_number = int(record['client_number'].strip)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 95, in load_data
+    client_number = int(record['client_number'].strip)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+root - ERROR - Error reading client data
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 79, in load_data
+    client = Client(
+        client_number=client_number,
+    ...<2 lines>...
+        email_address=email_address
+    )
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\client\client.py", line 45, in __init__
+    raise ValueError("Last name cannot be blank.")
+ValueError: Last name cannot be blank.
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten' 
+
+Traceback (most recent call last):
+  File "C:\Users\kaili\Red River\RRC-Polytech\Intermediate Software Development\Assigment\intermediate_software_development\Assignment_2\isd_project\user_interface\manage_data.py", line 95, in load_data
+    client_number = int(record['client_number'].strip)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+
+root - ERROR - Unable to create client: 'builtin_function_or_method' object has no attribute 'strip'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: 'builtin_function_or_method' object has no attribute 'strip'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Client.__init__() got an unexpected keyword argument 'email'
+
+
+root - ERROR - Unable to create bank account: Client number 1001 not found for account 20001.
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+

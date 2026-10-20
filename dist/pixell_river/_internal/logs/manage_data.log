@@ -1,0 +1,6 @@
+root - ERROR - Unable to create client: Last name cannot be blank.
+
+
+root - ERROR - Unable to create bank account: could not convert string to float: 'ten'
+
+
